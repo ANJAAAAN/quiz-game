@@ -1,10 +1,10 @@
 # quiz-game
-![Login](https://user-images.githubusercontent.com/96495449/205923619-2a29cc70-1135-4a52-bec7-b1b3e70fa1dc.PNG)
+![Login](https://user-images.githubusercontent.com/96495449/205924551-8b8d11ab-c9e1-4d79-9e59-159dad24c383.PNG)
 
-![Register](https://user-images.githubusercontent.com/96495449/205923632-4863a6f1-d903-4598-b1ae-d19fd75314c0.PNG)
+![Register](https://user-images.githubusercontent.com/96495449/205924581-6a5727d9-d228-46c0-bdbf-496353dfd587.PNG)
 
-![WorkingGame](https://user-images.githubusercontent.com/96495449/205923653-5ab17241-24e3-453f-ba0a-77efbc9aff08.PNG)
+![WorkingGame](https://user-images.githubusercontent.com/96495449/205924626-136af41c-cd6b-4f80-98d3-2d7333b66287.PNG)
 
-![WrongAnswer](https://user-images.githubusercontent.com/96495449/205923658-1d2c9790-e7f8-48d9-a7b3-c94288d37b81.PNG)
+![WrongAnswer](https://user-images.githubusercontent.com/96495449/205924635-1f1c2634-6e92-4a8f-9048-2c9e3f6ed7b2.PNG)
 
-![Logout](https://user-images.githubusercontent.com/96495449/205923664-063a3ddb-56c0-4f0d-8d40-f0b51594ff62.PNG)
+![Logout (2)](https://user-images.githubusercontent.com/96495449/205924653-064e3a43-8134-4e31-8ea6-779ba4038f57.PNG)
